@@ -1,2 +1,2 @@
-10000|https://itunes.apple.com/cn/app/id1261773058|https://raw.githubusercontent.com/todd-y/game/master/selfad.png
-1262976508|https://itunes.apple.com/cn/app/id1261773058|https://raw.githubusercontent.com/todd-y/game/master/selfad.png
+10000|https://itunes.apple.com/cn/app/id1261773058|https://itunes.apple.com/cn/app/id1261773058
+1262976508|https://itunes.apple.com/cn/app/id1261773058|https://itunes.apple.com/cn/app/id1262976508
