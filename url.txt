@@ -1,0 +1,2 @@
+10000|https://itunes.apple.com/cn/app/id1262347154|https://raw.githubusercontent.com/todd-y/game/master/selfad.png
+1262976508||
