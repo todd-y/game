@@ -81,7 +81,7 @@
 1384338637|||0|1|BoxRun
 1384822639|||1|2|LightPuzzle
 1385374650|||1|2|SkyDrift2
-1385907182|||1|2|CarChase
+1385907182|||1|1|CarChase
 1385947976|||0|2|BrainLevel
 1390463515|||0|1|CrazyAnimal
 1393922091|||1|1|kongHero2
