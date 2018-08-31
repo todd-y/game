@@ -105,4 +105,6 @@
 1434019703|||1|2|MergeAnimal
 14340197032|||1|2|MergeAnimal
 1434384454|||1|1|gongjiaoche
+1434659886|||1|2|HeilxTrain
+1434791322|||1|3|HeilxUp
 10001|||1|2
