@@ -102,7 +102,7 @@
 1412620803|||1|1|Smash
 1418440434|||1|1|Fly
 1418442833|||0|2|weaponIdle
-141844283302|||1|100|weaponIdleGoogle
+141844283302|||1|2|weaponIdleGoogle
 141844283303|||1|2|weaponIdleTap
 1434019703|||0|2|MergeAnimal
 143401970302|||1|2|MergeAnimalAndroid
