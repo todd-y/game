@@ -118,8 +118,8 @@
 1438700538|||1|1|pengzhuang
 1440553661|||0|1|ballbattle
 1440971708|||1|30|CarsTower
-1441608860|||0|100|fishio
-144160886001|||0|1000|fishio google
+1441608860|||0|1|fishio
+144160886001|||0|1|fishio google
 1446383940|||0|3|CrossSky
 1449444382|||1|2|baseball
 1449687728|||1|3|lightShot
